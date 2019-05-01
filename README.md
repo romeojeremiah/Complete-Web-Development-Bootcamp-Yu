@@ -70,5 +70,7 @@
 
 #### Build Your Own RESTful API from Scratch
 
+#### Authentication & Security
+
 #### Design School 101
 
